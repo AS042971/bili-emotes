@@ -16,7 +16,13 @@
 
 ## A-Soul二创表情包
 
-（待补充）
+统一订阅URL: `https://raw.githubusercontent.com/AS042971/bili-emotes/main/asoul.json`
+
+| 序号 | 图标 | 名称 |
+| -- | -- | -- |
+| 12111 | <img src="https://i0.hdslb.com/bfs/article/a9f341899b2925d6489b2e457fa4cc3b2340f0ed.jpg" width="50" /> | A-Soul二创1 (来自 @绯月见白) |
+| 12112 | <img src="https://i0.hdslb.com/bfs/new_dyn/97e5c7884759f24e785dd79496e01a8e3095497.png" width="50" /> | A-Soul二创2 (来自 @失忆狂魔日成) |
+| 12113 | <img src="https://i0.hdslb.com/bfs/new_dyn/390a915647c684986b43fa185f7bdbfa479464.png" width="50" /> | A-Soul二创3 (来自 @幼安1207) |
 
 ## 系统表情包（A-Soul）
 
