@@ -3,7 +3,7 @@
 
 ## 啵啵二创表情包
 
-统一订阅URL: `https://raw.githubusercontent.com/AS042971/bili-emotes/main/%E5%95%B5%E5%95%B5.json`
+统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/%E5%95%B5%E5%95%B5.json`
 
 **啵啵表情包 插件用户无需额外订阅此系列**
 
@@ -16,7 +16,7 @@
 
 ## A-Soul二创表情包
 
-统一订阅URL: `https://raw.githubusercontent.com/AS042971/bili-emotes/main/asoul.json`
+统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/asoul.json`
 
 | 序号 | 图标 | 名称 |
 | -- | -- | -- |
