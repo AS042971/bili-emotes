@@ -1,7 +1,23 @@
 # bili-emotes
 存储 Bilibili 的各种表情包
 
+## 啵啵二创表情包（已内置于啵啵表情包插件）
+
+统一订阅URL: `https://raw.githubusercontent.com/AS042971/bili-emotes/main/%E5%95%B5%E5%95%B5.json`
+
+| 序号 | 图标 | 名称 |
+| -- | -- | -- |
+| 33331 | <img src="https://i0.hdslb.com/bfs/new_dyn/3e1656dd6dd1255f65fb91389dd73f775858138.png" width="50" /> | 啵啵1 (来自 @风罗4个圈儿) |
+| 33332 | <img src="https://i0.hdslb.com/bfs/new_dyn/9967473a6ae170fc21a29ce1394f16e6173530952.png" width="50" /> | 啵啵2 (来自 @爱茉-Merry-) |
+| 33333 | <img src="https://i0.hdslb.com/bfs/album/ac8e96351d7bf58936d77266db38edf8d723b47b.jpg" width="50" /> | 啵啵3 (来自 @玉桂狗美图分享bot) |
+| 33334 | <img src="https://i0.hdslb.com/bfs/new_dyn/a81c1ac0892b4d383758ef6e0d8dac821648242323.png" width="50" /> | 啵啵4 (来自 @卡古拉的醋昆布e, @原来是小瘪终极, @馒头卡今天吃什么, @四等双足多用途北极熊, @啵啵XXXIX) |
+
+## A-Soul二创表情包
+
+（待补充）
+
 ## 系统表情包（A-Soul）
+
 | 序号 | 图标 | 名称 | 订阅URL |
 | -- | -- | -- | -- |
 | 221 | <img src="http://i0.hdslb.com/bfs/emote/1e2d13a1250136df7ab902e8c98d60ac08b1ed59.png" width="50" /> | 大航海嘉然 | https://api.bilibili.com/x/emote/package?business=reply&ids=221 |
