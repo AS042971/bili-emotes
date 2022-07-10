@@ -1,9 +1,11 @@
 # bili-emotes
 存储 Bilibili 的各种表情包
 
-## 啵啵二创表情包（已内置于啵啵表情包插件）
+## 啵啵二创表情包（[来源](https://docs.qq.com/sheet/DRlNSVHNvenVDcnhx)）
 
 统一订阅URL: `https://raw.githubusercontent.com/AS042971/bili-emotes/main/%E5%95%B5%E5%95%B5.json`
+
+**啵啵表情包 插件用户无需额外订阅此系列**
 
 | 序号 | 图标 | 名称 |
 | -- | -- | -- |
@@ -12,7 +14,7 @@
 | 33333 | <img src="https://i0.hdslb.com/bfs/album/ac8e96351d7bf58936d77266db38edf8d723b47b.jpg" width="50" /> | 啵啵3 (来自 @玉桂狗美图分享bot) |
 | 33334 | <img src="https://i0.hdslb.com/bfs/new_dyn/a81c1ac0892b4d383758ef6e0d8dac821648242323.png" width="50" /> | 啵啵4 (来自 @卡古拉的醋昆布e, @原来是小瘪终极, @馒头卡今天吃什么, @四等双足多用途北极熊, @啵啵XXXIX) |
 
-## A-Soul二创表情包
+## A-Soul二创表情包（[来源](https://docs.qq.com/sheet/DRlNSVHNvenVDcnhx)）
 
 （待补充）
 
