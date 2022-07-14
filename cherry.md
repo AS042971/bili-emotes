@@ -373,3 +373,4 @@
 | 424 | <img src="http://i0.hdslb.com/bfs/emote/9dec79f0db67e8797ced52e3aa67f63112c64855.png" width="50" /> | 张京华 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=424` |
 | 425 | <img src="http://i0.hdslb.com/bfs/emote/8256f8010f6cde14f3b5e65115870b54d1402f0b.png" width="50" /> | 虚拟偶像男团LASER | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=425` |
 | 426 | <img src="http://i0.hdslb.com/bfs/emote/e19423935a9c5022a286b38a3cbd686ce89f2a2d.png" width="50" /> | 虚拟偶像男团MANTA | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=426` |
+| 428 | <img src="http://i0.hdslb.com/bfs/emote/76bb72ffcc1773f377953f495c1ed3d26beca308.png" width="50" /> | 冰糖IO 蜕变·闪耀 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=428` |
