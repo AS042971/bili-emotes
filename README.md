@@ -25,6 +25,10 @@
 | 12112 | <img src="https://i0.hdslb.com/bfs/new_dyn/97e5c7884759f24e785dd79496e01a8e3095497.png" width="50" /> | A-Soul二创2 (来自 @失忆狂魔日成) |
 | 12113 | <img src="https://i0.hdslb.com/bfs/new_dyn/390a915647c684986b43fa185f7bdbfa479464.png" width="50" /> | A-Soul二创3 (来自 @幼安1207) |
 
-## 🍒表情包
+## 🍒的装扮表情包
+
+（已隐藏）
+
+## 🍒的UP主大表情（发动态时无插件可见）
 
 （已隐藏）
