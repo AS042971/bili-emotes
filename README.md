@@ -25,6 +25,14 @@
 | 12112 | <img src="https://i0.hdslb.com/bfs/new_dyn/97e5c7884759f24e785dd79496e01a8e3095497.png" width="50" /> | A-Soul二创2 (来自 @失忆狂魔日成) |
 | 12113 | <img src="https://i0.hdslb.com/bfs/new_dyn/390a915647c684986b43fa185f7bdbfa479464.png" width="50" /> | A-Soul二创3 (来自 @幼安1207) |
 
+## EOE二创表情包
+
+统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/eoe.json`
+
+| 序号 | 图标 | 名称 |
+| -- | -- | -- |
+| 5100 | <img src="https://i0.hdslb.com/bfs/new_dyn/0c29488d154bbcf2c5ecc0360ab27920701729000.png" width="50" /> | 柚恩二创1 (来自 @柚恩单推人) |
+
 ## 🍒的装扮表情包
 
 （已隐藏）
