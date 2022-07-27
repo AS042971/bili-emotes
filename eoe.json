@@ -201,7 +201,7 @@
                     {
                         "id": 510010,
                         "package_id": 5100,
-                        "text": "[柚恩二创_你*没了]",
+                        "text": "[柚恩二创_哎呀米诺]",
                         "url": "https://i0.hdslb.com/bfs/new_dyn/77d5199f8a5e37df69ecc0ab7ca79857701729000.png",
                         "mtime": 1654321000,
                         "type": 3,
@@ -211,7 +211,7 @@
                             "suggest": [
                                 ""
                             ],
-                            "alias": "你*没了"
+                            "alias": "哎呀米诺"
                         },
                         "flags": {
                             "unlocked": false
@@ -221,7 +221,7 @@
                     {
                         "id": 510011,
                         "package_id": 5100,
-                        "text": "[柚恩二创_来点*图]",
+                        "text": "[柚恩二创_求图]",
                         "url": "https://i0.hdslb.com/bfs/new_dyn/b5db301ddabbac444a5c7e2c07445342701729000.png",
                         "mtime": 1654321000,
                         "type": 3,
@@ -231,7 +231,7 @@
                             "suggest": [
                                 ""
                             ],
-                            "alias": "来点*图"
+                            "alias": "求图"
                         },
                         "flags": {
                             "unlocked": false
