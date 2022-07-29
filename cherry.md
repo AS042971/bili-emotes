@@ -381,3 +381,9 @@
 | 432 | <img src="http://i0.hdslb.com/bfs/emote/882b4ede8c629ab16892cc911e49e3353cbd0a88.png" width="50" /> | 黑之召唤士 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=432` |
 | 439 | <img src="http://i0.hdslb.com/bfs/emote/ab4e8db97a21ae91cffad95c3d524130a62fcd6b.png" width="50" /> | 重返未来 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=439` |
 | 440 | <img src="http://i0.hdslb.com/bfs/emote/4160a42927b8902314f43f3649f4a1ad4e955b5e.png" width="50" /> | 猫雷Nyaru | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=440` |
+| 441 | <img src="http://i0.hdslb.com/bfs/emote/93697563102d37ff41afe75c7c3072718f2b7010.png" width="50" /> | 海伊 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=441` |
+| 454 | <img src="http://i0.hdslb.com/bfs/emote/67f51aef457177734f2b98efae900e802e4e0d93.png" width="50" /> | Mysta Rias | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=454` |
+| 455 | <img src="http://i0.hdslb.com/bfs/emote/2260a8739cc92895ad2cb93b34d2ec7344075b56.png" width="50" /> | Vox Akuma | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=455` |
+| 456 | <img src="http://i0.hdslb.com/bfs/emote/9ee3ed43591477cbd80442276eb791cc16cf23a5.png" width="50" /> | Ike Eveland | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=456` |
+| 457 | <img src="http://i0.hdslb.com/bfs/emote/ab54bc00cc3e24fb8db2ab7800833296276a5fa1.png" width="50" /> | Luca Kaneshiro | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=457` |
+| 458 | <img src="http://i0.hdslb.com/bfs/emote/51587bb47535ec21717cbf9bc7f029affd304993.png" width="50" /> | Shu Yamino | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=458` |
