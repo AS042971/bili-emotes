@@ -12,7 +12,10 @@
           "type": 3,
           "attr": 28,
           "meta": {
-            "size": 2
+            "size": 2,
+            "item_id": 3333,
+            "item_url": "https://www.bilibili.com",
+            "asset_id": 333333333
           },
           "emote": [
             {
@@ -28,11 +31,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "NONONO",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "NONONO"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37613,
@@ -47,11 +51,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "拜拜",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "拜拜"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37614,
@@ -66,11 +71,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "贝极星",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "贝极星"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37615,
@@ -85,11 +91,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "小笨蛋",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "小笨蛋"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37616,
@@ -104,11 +111,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "贝拉碎月",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "贝拉碎月"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37617,
@@ -123,11 +131,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "唱歌",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "唱歌"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37618,
@@ -142,11 +151,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "吃牛肉干",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "吃牛肉干"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37619,
@@ -161,11 +171,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "大聪明",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "大聪明"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37620,
@@ -180,11 +191,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "过载",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "过载"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37621,
@@ -199,11 +211,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "哈哈哈哈哈",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "哈哈哈哈哈"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37622,
@@ -218,11 +231,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "哈喽",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "哈喽"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37623,
@@ -237,11 +251,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "晃悠悠",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "晃悠悠"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37624,
@@ -256,11 +271,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "剑来",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "剑来"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37625,
@@ -275,11 +291,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "健身",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "健身"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37626,
@@ -294,11 +311,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "拉伸",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "拉伸"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37627,
@@ -313,11 +331,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "拉手摧花",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "拉手摧花"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37628,
@@ -332,11 +351,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "你再想想",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "你再想想"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37629,
@@ -351,11 +371,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "起床啦",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "起床啦"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37630,
@@ -370,11 +391,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "日程表",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "日程表"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37631,
@@ -389,11 +411,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "天鹅小贝拉",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "天鹅小贝拉"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37632,
@@ -408,11 +431,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "兔兔拳",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "兔兔拳"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37633,
@@ -427,11 +451,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "委屈小贝拉",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "委屈小贝拉"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37634,
@@ -446,11 +471,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "我们是",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "我们是"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37635,
@@ -465,11 +491,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "小胡子",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "小胡子"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             },
             {
               "id": 37636,
@@ -484,11 +511,12 @@
                 "suggest": [
                   ""
                 ],
-                "alias": "要相信光",
-                "flags": {
-                  "unlocked": false
-                }
-              }
+                "alias": "要相信光"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
             }
           ],
           "flags": {
