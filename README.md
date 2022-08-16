@@ -4,7 +4,7 @@
 
 ## 啵啵二创表情包
 
-统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/%E5%95%B5%E5%95%B5.json`
+统一订阅URL: `https://gitee.com/milkiq/bili-emotes/raw/main/%E5%95%B5%E5%95%B5.json`
 
 **使用 啵啵表情包 插件的用户无需额外订阅此系列**
 
@@ -17,7 +17,7 @@
 
 ## A-Soul二创表情包
 
-统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/asoul.json`
+统一订阅URL: `https://gitee.com/milkiq/bili-emotes/raw/main/asoul.json`
 
 | 序号 | 图标 | 名称 |
 | -- | -- | -- |
@@ -27,7 +27,7 @@
 
 ## EOE二创表情包
 
-统一订阅URL: `https://git.asf.ink/AS042971/bili-emotes/raw/branch/main/eoe.json`
+统一订阅URL: `https://gitee.com/milkiq/bili-emotes/raw/main/eoe.json`
 
 | 序号 | 图标 | 名称 |
 | -- | -- | -- |
