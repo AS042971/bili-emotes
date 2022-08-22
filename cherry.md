@@ -12,6 +12,7 @@
 | 339 | <img src="http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png" width="50" /> | 珈乐Carol | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=339` |
 | 380 | <img src="http://i0.hdslb.com/bfs/emote/5ff23d82bcb2a9edf96f0fb01eda5a3914996fbb.png" width="50" /> | 嘉然个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=380` |
 | 415 | <img src="http://i0.hdslb.com/bfs/emote/d0e758af7c37b488da16e18a86a7357f2e1a2713.png" width="50" /> | 向晚2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=415` |
+| 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
 
 ## Bilibili 内置表情包（全部）
 
@@ -399,3 +400,8 @@
 | 468 | <img src="http://i0.hdslb.com/bfs/emote/192e601a7abf8d76b7e1f7d99ae378f406bca61f.png" width="50" /> | 幕末替身传说 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=468` |
 | 469 | <img src="http://i0.hdslb.com/bfs/emote/f463f7c4f7f166ff7a3ca8a8df7996ffa91caa38.png" width="50" /> | 沈剑心第三季专属装扮 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=469` |
 | 470 | <img src="http://i0.hdslb.com/bfs/emote/0bdc23a415ada29a7e79ba3b78be22b8ed02118b.png" width="50" /> | 崩坏3·光辉矢愿 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=470` |
+| 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
+| 472 | <img src="http://i0.hdslb.com/bfs/emote/94fdc1d662507abfac309fe9c21abb2eaed85d16.png" width="50" /> | 灵魂潮汐周年庆典 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=472` |
+| 473 | <img src="http://i0.hdslb.com/bfs/emote/37c6fe3047b6adf67154b356623f7127ed06f11e.png" width="50" /> | 阿萨Aza-多面体 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=473` |
+| 475 | <img src="http://i0.hdslb.com/bfs/emote/e98076dd5b418677a669464415c59c344734d292.png" width="50" /> | 童话系列·胡桃夹子 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=475` |
+| 477 | <img src="http://i0.hdslb.com/bfs/emote/d9da2375f556eb5d49c8a62bdaafde677d0faee2.png" width="50" /> | 東雪蓮 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=477` |
