@@ -1,3 +1,23 @@
+# 🍒的装扮表情包
+
+## Bilibili 内置表情包（A-Soul）
+
+| 序号 | 图标 | 名称 | 订阅URL |
+| -- | -- | -- | -- |
+| 221 | <img src="http://i0.hdslb.com/bfs/emote/1e2d13a1250136df7ab902e8c98d60ac08b1ed59.png" width="50" /> | 大航海嘉然 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=221` |
+| 237 | <img src="http://i0.hdslb.com/bfs/emote/b2d7684917874368bab2285038701f3633e9d095.png" width="50" /> | 贝拉kira | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=237` |
+| 245 | <img src="http://i0.hdslb.com/bfs/emote/b29f3f08a7edf548b1a92a6f668f4a14aab15295.png" width="50" /> | 嘉然今天吃什么 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=245` |
+| 288 | <img src="http://i0.hdslb.com/bfs/emote/9ab1eb7cc52dea2dbd49cafdb801075cbaa0afc3.png" width="50" /> | 向晚大魔王 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=288` |
+| 333 | <img src="http://i0.hdslb.com/bfs/emote/92542fbb7482e415b36edde10580d26853c6774f.png" width="50" /> | 乃琳Queen | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=333` |
+| 339 | <img src="http://i0.hdslb.com/bfs/emote/de2055a01ecc5059290e72f9b4ab4b76e71611dc.png" width="50" /> | 珈乐Carol | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=339` |
+| 380 | <img src="http://i0.hdslb.com/bfs/emote/5ff23d82bcb2a9edf96f0fb01eda5a3914996fbb.png" width="50" /> | 嘉然个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=380` |
+| 415 | <img src="http://i0.hdslb.com/bfs/emote/d0e758af7c37b488da16e18a86a7357f2e1a2713.png" width="50" /> | 向晚2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=415` |
+| 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
+
+## Bilibili 内置表情包（全部）
+
+| 序号 | 图标 | 名称 | 订阅URL |
+| -- | -- | -- | -- |
 | 1 | <img src="http://i0.hdslb.com/bfs/emote/fc7dadaa6986e75b813aa26f3eff3281d5f1a6d1.png" width="50" /> | 小黄脸 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1` |
 | 2 | <img src="http://i0.hdslb.com/bfs/emote/f3517fc58c71236da5f0355b688ba302ae90c074.png" width="50" /> | tv_小电视 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=2` |
 | 3 | <img src="http://i0.hdslb.com/bfs/emote/eb46e78c9d86ccbe9842f0235c7cb4f4e0e80a57.png" width="50" /> | 喵 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=3` |
