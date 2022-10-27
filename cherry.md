@@ -464,5 +464,12 @@
 | 532 | <img src="http://i0.hdslb.com/bfs/emote/07a7e809707be6bf638e23d3e55d72cbeb6983fb.png" width="50" /> | 暹罗猫小豆泥 · 遇见泥 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=532` |
 | 533 | <img src="http://i0.hdslb.com/bfs/emote/a0220e9f272aa5cf5a8b1cdc6e6459ca20eb8059.png" width="50" /> | 一二和布布 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=533` |
 | 534 | <img src="http://i0.hdslb.com/bfs/emote/6e054b6119d23812bacda8c7ea56a90ead07370c.png" width="50" /> | 炼气练了3000年 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=534` |
+| 536 | <img src="https://i0.hdslb.com/bfs/emote/34ce4dfbdd43edcde6f54549eb00177b4d02edbd.png" width="50" /> | 明日方舟·音律联觉-灯下定影 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=536` |
 | 537 | <img src="http://i0.hdslb.com/bfs/emote/a483bb54e57cd60b2bb61e547c9486d6c7439ff6.png" width="50" /> | DOTA2 dodo | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=537` |
 | 538 | <img src="http://i0.hdslb.com/bfs/emote/c24579698df4d301a36d6a5534aba8f6ab86ef61.png" width="50" /> | 童话系列·阿拉丁 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=538` |
+| 539 | <img src="http://i0.hdslb.com/bfs/emote/dfee3da5c697049e0885d1885af5198a0716586d.png" width="50" /> | 猫不理咖啡 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=539` |
+| 540 | <img src="http://i0.hdslb.com/bfs/emote/3d481bb43f296fde440ed1a280e860eae3bb04c3.png" width="50" /> | 花木兰 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=540` |
+| 541 | <img src="http://i0.hdslb.com/bfs/emote/8bc3df98e1606bc3e91150695a7773131332eed5.png" width="50" /> | 兰音Reine | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=541` |
+| 542 | <img src="http://i0.hdslb.com/bfs/emote/187d8c9bb5b4dc66c554821b3a402cb6a8a27773.png" width="50" /> | NHOT BOT首套专属装扮 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=542` |
+| 543 | <img src="http://i0.hdslb.com/bfs/emote/8b08f9a4b2ba3e4298b9f16c9c48cdf96271235c.png" width="50" /> | 仓鼠 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=543` |
+| 544 | <img src="http://i0.hdslb.com/bfs/emote/bd155249e298af92c899f67ad3d0bc3cc2499f5b.png" width="50" /> | 蕾蕾大表哥 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=544` |
