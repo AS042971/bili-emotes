@@ -1,0 +1,509 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+      "packages": [
+        {
+          "id": 555,
+          "text": "乃琳个性装扮2.0",
+          "url": "https://i0.hdslb.com/bfs/garb/item/779f8f74fb89c2c8a2d5c62d1ff223d8412db8f9.png",
+          "mtime": 1666666666,
+          "type": 3,
+          "attr": 28,
+          "meta": {
+            "size": 2,
+            "item_id": 3333,
+            "item_url": "https://www.bilibili.com",
+            "asset_id": 333333333
+          },
+          "emote": [
+            {
+              "id": 39804,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_不合礼法]",
+              "url": "http://i0.hdslb.com/bfs/emote/7cc54662c27102d939c528a43d82c2760c5c5ca0.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "不合礼法"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39805,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_打招呼]",
+              "url": "http://i0.hdslb.com/bfs/emote/0576307d4af936cc1b548e8bcc8ef9f4214de2f9.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "打招呼"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39806,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_大凤沟]",
+              "url": "http://i0.hdslb.com/bfs/emote/32ca22a16c42d57925c76b1039bc533d7c63a2a5.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "大凤沟"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39807,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_胆小]",
+              "url": "http://i0.hdslb.com/bfs/emote/1adb202e579c408036b3458b931361de44e82f01.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "胆小"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39808,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_飞吻]",
+              "url": "http://i0.hdslb.com/bfs/emote/ddec3c568259de1ee9d206ce06f9b73a63b39da6.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "飞吻"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39809,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_害羞]",
+              "url": "http://i0.hdslb.com/bfs/emote/c633b0004b8241f8fdb4a9810dc43e25a6781e6a.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "害羞"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39810,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_交朋友]",
+              "url": "http://i0.hdslb.com/bfs/emote/a94d582355a54dff77dc5df6cce0ba799b7a28bf.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "交朋友"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39811,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_娇娇崽]",
+              "url": "http://i0.hdslb.com/bfs/emote/2a2c2c728ed932be3c82d23bd7adab34f4d37410.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "娇娇崽"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39812,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_困]",
+              "url": "http://i0.hdslb.com/bfs/emote/065b723fd11c593e21961bf7f2d29c0a4f15ba57.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "困"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39813,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_流汗]",
+              "url": "http://i0.hdslb.com/bfs/emote/94b3953d51aabb90ca0270668ead5535ba455a0f.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "流汗"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39814,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_墨镜]",
+              "url": "http://i0.hdslb.com/bfs/emote/ad60d34ee3c928621dc9bb74adf067d7c3478019.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "墨镜"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39815,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_奶淇琳]",
+              "url": "http://i0.hdslb.com/bfs/emote/b30bbc1a106192cc6ec308adf6d50f8a5867b637.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "奶淇琳"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39816,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_朋友们！]",
+              "url": "http://i0.hdslb.com/bfs/emote/948c22c2c3c8fbfddc3221a38120e316b233bc62.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "朋友们！"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39817,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_气晕]",
+              "url": "http://i0.hdslb.com/bfs/emote/e12c5a89f5bf6d910ef3298e7c951fb20dfcde90.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "气晕"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39818,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_撒娇]",
+              "url": "http://i0.hdslb.com/bfs/emote/2227ca63fb1d6da83c94328b203312b015576bae.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "撒娇"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39819,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_贴贴捏]",
+              "url": "http://i0.hdslb.com/bfs/emote/701974ab0576284b8cee1b888b9c326578b6b9f7.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "贴贴捏"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39820,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_晚安]",
+              "url": "http://i0.hdslb.com/bfs/emote/e9ec0c6b199aa44e1ef21297bc8cabc723ac5e9f.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "晚安"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39821,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_我们是.]",
+              "url": "http://i0.hdslb.com/bfs/emote/dfaabf31f5df8b1a256a06685dcf584ed55ef166.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "我们是."
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39822,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_小狐狸]",
+              "url": "http://i0.hdslb.com/bfs/emote/b8cb38f46afddf8e67f5f2c55c4bd5297d0fa748.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "小狐狸"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39823,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_谢谢关注嘎]",
+              "url": "http://i0.hdslb.com/bfs/emote/82cc75dbb838c8c5280ede64b928d48dcf20dc1b.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "谢谢关注嘎"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39824,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_耶]",
+              "url": "http://i0.hdslb.com/bfs/emote/df54ed78b6251befead2b7d2fa4c663314c9949a.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "耶"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39825,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_鸳鸯火锅拳]",
+              "url": "http://i0.hdslb.com/bfs/emote/9beb5c07770b0b32a37bb69ae74848b1425f45ce.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "鸳鸯火锅拳"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39826,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_再想想]",
+              "url": "http://i0.hdslb.com/bfs/emote/b586062fa323ee03dab51f3e7ce1fd20b873f30c.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "再想想"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            },
+            {
+              "id": 39827,
+              "package_id": 555,
+              "text": "[乃琳个性装扮2.0_招商]",
+              "url": "http://i0.hdslb.com/bfs/emote/61ab00cbf5c7dc6f7d5127295d5360089a026bff.png",
+              "mtime": 1666666666,
+              "type": 3,
+              "attr": 0,
+              "meta": {
+                "size": 2,
+                "suggest": [
+                  ""
+                ],
+                "alias": "招商"
+              },
+              "flags": {
+                "unlocked": false
+              },
+              "activity": null
+            }
+          ],
+          "flags": {
+            "added": true
+          }
+        }
+      ]
+    }
+}
+  
