@@ -15,6 +15,16 @@
 | 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
 | 586 | <img src="http://i0.hdslb.com/bfs/emote/8de57ec80078632f2ccfd28d18afe9984f01cb23.png" width="50" /> | 乃琳个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=586` |
 
+## Bilibili 内置表情包（EOE）
+
+| 序号 | 图标 | 名称 | 订阅URL |
+| -- | -- | -- | -- |
+| 588 | <img src="http://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png" width="50" /> | 莞儿睡不醒 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=588` |
+| 589 | <img src="http://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png" width="50" /> | 露早GOGO | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=589` |
+| 590 | <img src="http://i0.hdslb.com/bfs/emote/cc61a365fc193c9bdc581dcf9eb033a6bca6660e.png" width="50" /> | 米诺高分少女 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=590` |
+| 591 | <img src="http://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png" width="50" /> | 柚恩不加糖 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=591` |
+| 592 | <img src="http://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png" width="50" /> | 虞莫MOMO | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=592` |
+
 ## Bilibili 内置表情包（全部）
 
 | 序号 | 图标 | 名称 | 订阅URL |
@@ -503,3 +513,13 @@
 | 584 | <img src="http://i0.hdslb.com/bfs/emote/40741be05bf7702b7cf6281f8da9482a5ad1c01c.png" width="50" /> | ROUTINEARSON | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=584` |
 | 585 | <img src="http://i0.hdslb.com/bfs/garb/00d7c7295058bba8d09881687e2d329937e1eaa6.png" width="50" /> | 籽岷 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=585` |
 | 586 | <img src="http://i0.hdslb.com/bfs/emote/8de57ec80078632f2ccfd28d18afe9984f01cb23.png" width="50" /> | 乃琳个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=586` |
+| 588 | <img src="http://i0.hdslb.com/bfs/emote/d33211fc87b01a8fd2ad07b295ea7fcafb4074a4.png" width="50" /> | 莞儿睡不醒 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=588` |
+| 589 | <img src="http://i0.hdslb.com/bfs/emote/c38a6c6a6fd213d67fc985b89560f1e692029993.png" width="50" /> | 露早GOGO | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=589` |
+| 590 | <img src="http://i0.hdslb.com/bfs/emote/cc61a365fc193c9bdc581dcf9eb033a6bca6660e.png" width="50" /> | 米诺高分少女 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=590` |
+| 591 | <img src="http://i0.hdslb.com/bfs/emote/379c7bda99ecb6920adeb8496e29ae5871c58f86.png" width="50" /> | 柚恩不加糖 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=591` |
+| 592 | <img src="http://i0.hdslb.com/bfs/emote/02939ba6146fe192165984ebb356e89c212acf96.png" width="50" /> | 虞莫MOMO | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=592` |
+| 593 | <img src="http://i0.hdslb.com/bfs/emote/2c0d165f19c1bc72d9201236f068a932aa9ac933.png" width="50" /> | 猫诺装扮套装 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=593` |
+| 594 | <img src="http://i0.hdslb.com/bfs/emote/6db9fce81729c7326cf9c3dc760f3bab1aa27e2b.png" width="50" /> | 小柔Channel | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=594` |
+| 595 | <img src="http://i0.hdslb.com/bfs/emote/c7fbec37cc3bcef75ded1e0be006b63e8c67b773.png" width="50" /> | 蛋酒一家 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=595` |
+| 598 | <img src="http://i0.hdslb.com/bfs/emote/2c8fc79fb0413f103e320c9e1defc7f4258932b6.png" width="50" /> | 万圣节的新娘 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=598` |
+| 599 | <img src="http://i0.hdslb.com/bfs/emote/39fce2f2d6a190ae62291a7ed1be69740ddc5c16.png" width="50" /> | 2233人生百戏·梁祝 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=599` |
