@@ -41,6 +41,49 @@
 | 658 | <img src="https://i0.hdslb.com/bfs/garb/214ff0fbcc66a32f326f85416bc2a006c2e46d36.png" width="50" /> | 绘之音（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=658` |
 | 669 | <img src="http://i0.hdslb.com/bfs/garb/83c080a047c8d9a10e87e19671e7815f7d9e4771.png" width="50" /> | 克里米亚野生动物园（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=669` |
 
+## 大会员专属表情
+
+| 序号 | 图标 | 名称 | 订阅URL |
+| -- | -- | -- | -- |
+| 5 | <img src="http://i0.hdslb.com/bfs/emote/ce49073ff96606a1a2674b3b4ef8e15fb0a399ff.png" width="50" /> | 小电视 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=5` |
+| 6 | <img src="http://i0.hdslb.com/bfs/emote/f52830f0c01a4dc91457be5bb2ee49b1b5692cd5.png" width="50" /> | 2233娘 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=6` |
+| 7 | <img src="http://i0.hdslb.com/bfs/emote/2afa12abaad687ee1be56447eb9aa26deba067db.png" width="50" /> | 蛆音娘 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=7` |
+| 8 | <img src="http://i0.hdslb.com/bfs/emote/a575074eb346256b8c2e739fc09353d8304aaa3a.png" width="50" /> | 芮小凸小凹 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=8` |
+| 9 | <img src="http://i0.hdslb.com/bfs/emote/0900f2656679d5ad818e3c1a1f5852f507b39776.png" width="50" /> | 洛天依 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=9` |
+| 10 | <img src="http://i0.hdslb.com/bfs/emote/1dfe73e00f40ca42789602e8ee53b58c4f75a838.jpg" width="50" /> | 小A和小B | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=10` |
+| 11 | <img src="http://i0.hdslb.com/bfs/emote/d7f455d638152737a3ed4dacefb9e7b68d8046e0.png" width="50" /> | 请吃红小豆吧！ | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=11` |
+| 12 | <img src="http://i0.hdslb.com/bfs/emote/0b43d9a2e44ceda54242599713c04f0d1d0328a6.png" width="50" /> | 正经人 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=12` |
+| 13 | <img src="http://i0.hdslb.com/bfs/emote/c4a6081c03495a969ad3ea4b8630d1bda9e6c87f.png" width="50" /> | 星梦手记 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=13` |
+| 14 | <img src="http://i0.hdslb.com/bfs/emote/d6a7bfcb2d74601f27ff90e4ee6cfaaebd6be186.png" width="50" /> | 冷兔 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=14` |
+| 15 | <img src="http://i0.hdslb.com/bfs/emote/eaa4423ce29e62cb02f3be2e236ace4665de7363.png" width="50" /> | 那兔 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=15` |
+| 16 | <img src="http://i0.hdslb.com/bfs/emote/816198d849984d510a1713c3d6426754475f8ddd.png" width="50" /> | 我家大师兄脑子有坑 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=16` |
+| 17 | <img src="http://i0.hdslb.com/bfs/emote/0e99fd418d5ee4ec0b235dc8c1cba96dcd92e52f.png" width="50" /> | 喂，看见耳朵啦！ | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=17` |
+| 18 | <img src="http://i0.hdslb.com/bfs/emote/133bf9af4551a15a36b7d83769f30430f347ee6c.png" width="50" /> | 小绿和小蓝 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=18` |
+| 19 | <img src="http://i0.hdslb.com/bfs/emote/cbfa3610c1dcb794f511b307603bfb52c235a0da.png" width="50" /> | 一人之下 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=19` |
+| 20 | <img src="http://i0.hdslb.com/bfs/emote/8ef84c906cdf2f53e2b49dfca072179bb7679c7e.png" width="50" /> | 狐妖 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=20` |
+| 22 | <img src="http://i0.hdslb.com/bfs/emote/d70f80c8a0af74726d8e08dca88849cd259eb61a.png" width="50" /> | 灵笼 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=22` |
+| 24 | <img src="http://i0.hdslb.com/bfs/emote/545b7740869d2f9bd04fb45de751d6aff99c3924.png" width="50" /> | 异常生物见闻录 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=24` |
+| 25 | <img src="http://i0.hdslb.com/bfs/emote/bcdfa28cd019333cdb243c3a8d73374236924585.png" width="50" /> | 罗小黑 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=25` |
+| 69 | <img src="http://i0.hdslb.com/bfs/emote/f8c1e47884e04c9812a3787dd3e3ddb652f51e62.jpg" width="50" /> | 战双帕弥什 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=69` |
+| 83 | <img src="http://i0.hdslb.com/bfs/emote/ee290cddedeed86475d64dbe4c3687b47b6e836e.png" width="50" /> | 大王不高兴 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=83` |
+| 84 | <img src="http://i0.hdslb.com/bfs/emote/6581762537c911217b7a877a959133addabb5b89.png" width="50" /> | 崩坏3 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=84` |
+| 89 | <img src="http://i0.hdslb.com/bfs/emote/3463aaedce8b69c290194c32db59b52eb9a5aa05.png" width="50" /> | 阴阳师缘结神 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=89` |
+| 91 | <img src="http://i0.hdslb.com/bfs/emote/765b126bf9a2364e7f9785a2eeefa092c98e49af.png" width="50" /> | 公主连结 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=91` |
+| 108 | <img src="http://i0.hdslb.com/bfs/emote/b91e1248c3210ae41e212ebc90c43d271d1aaa39.png" width="50" /> | 最强蜗牛西能 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=108` |
+| 128 | <img src="http://i0.hdslb.com/bfs/emote/056b9a862fcdbd623525412ef7bc391c719454bc.png" width="50" /> | 宇宙机器人 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=128` |
+| 153 | <img src="http://i0.hdslb.com/bfs/emote/82f747d2bfca1eeb5f5921222a45c055adde7966.png" width="50" /> | 小沪蝶 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=153` |
+| 154 | <img src="http://i0.hdslb.com/bfs/emote/71eec9cccde60b236318aad305bdd6266b89d563.png" width="50" /> | 偶像梦幻祭2-StarPRO日常 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=154` |
+| 170 | <img src="http://i0.hdslb.com/bfs/emote/4c9c431fdf6242ad1ca70f7f6629bdcf80f42344.png" width="50" /> | 学习委员小沪蝶2 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=170` |
+| 183 | <img src="http://i0.hdslb.com/bfs/emote/8b7215e0b7cb98b5becbf146d5e916fd16111499.png" width="50" /> | 我在皇宫当巨巨 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=183` |
+| 195 | <img src="http://i0.hdslb.com/bfs/emote/d336eea557309adac446f306406e9c8af25da9d3.png" width="50" /> | 未定事件簿 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=195` |
+| 214 | <img src="http://i0.hdslb.com/bfs/emote/4f650dd70b90dddf8f9bf3cbf498502be519fe87.png" width="50" /> | FPX凤仔 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=214` |
+| 228 | <img src="http://i0.hdslb.com/bfs/emote/d5a23a3103cb90d2d60574c19758ec889358e19b.png" width="50" /> | 来古弥新 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=228` |
+| 278 | <img src="http://i0.hdslb.com/bfs/emote/4588278098a14710cd5c9910a50f47da8a086a03.png" width="50" /> | FPX凤仔第二弹 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=278` |
+| 295 | <img src="http://i0.hdslb.com/bfs/emote/ca094b662976fad46f8650be8d5731d426daee7b.png" width="50" /> | 我的音乐你听吗 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=295` |
+| 439 | <img src="http://i0.hdslb.com/bfs/emote/ab4e8db97a21ae91cffad95c3d524130a62fcd6b.png" width="50" /> | 重返未来 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=439` |
+| 641 | <img src="https://i0.hdslb.com/bfs/garb/item/18080247d1620f5953a628b7b51e1745a4e9d2eb.png" width="50" /> | 猫咪公寓 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=641` |
+
+
 ## Bilibili 内置表情包（全部）
 
 | 序号 | 图标 | 名称 | 订阅URL |
