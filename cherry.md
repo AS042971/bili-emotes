@@ -40,6 +40,7 @@
 | 655 | <img src="https://i0.hdslb.com/bfs/garb/fec8075ae254a2af07b99dfd166ec7bcee83cf96.png" width="50" /> | 钉宫妮妮Ninico（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=655` |
 | 658 | <img src="https://i0.hdslb.com/bfs/garb/214ff0fbcc66a32f326f85416bc2a006c2e46d36.png" width="50" /> | 绘之音（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=658` |
 | 669 | <img src="http://i0.hdslb.com/bfs/garb/83c080a047c8d9a10e87e19671e7815f7d9e4771.png" width="50" /> | 克里米亚野生动物园（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=669` |
+| 685 | <img src="https://i0.hdslb.com/bfs/garb/0d93c0f55dada4760c096bb4c28f257805e9ba96.png" width="50" /> | 啵啵小狗341（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=685` |
 
 ## 大会员专属表情
 
@@ -643,3 +644,12 @@
 | 670 | <img src="https://i0.hdslb.com/bfs/garb/item/74c6847fb8d4309f47fbe9cb17cd2743625c7821.png" width="50" /> | 雪狐桑生日纪念 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=670` |
 | 671 | <img src="https://i0.hdslb.com/bfs/garb/item/4aec55120cf5f439d4c373e69e6eb1c60e89efd6.png" width="50" /> | UZI | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=671` |
 | 673 | <img src="https://i0.hdslb.com/bfs/garb/item/6d41c9b7f2853d2005fce8e38816ef685b8c5a95.png" width="50" /> | 桃桃喵和荔枝喵 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=673` |
+| 675 | <img src="https://i0.hdslb.com/bfs/emote/88e8a8332c793fdd10d20504c9df3707fd2783c5.png" width="50" /> | 万圣街 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=675` |
+| 676 | <img src="https://i0.hdslb.com/bfs/garb/item/454b1f924ca841a80eeffa8bb43cd951efdcac6a.png" width="50" /> | Stella和Dianna | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=676` |
+| 677 | <img src="https://i0.hdslb.com/bfs/garb/item/00b234db96c925f7d1cc98f3ff9eca78bc3d6d28.png" width="50" /> | 暖雪 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=677` |
+| 678 | <img src="https://i0.hdslb.com/bfs/garb/item/b0f920f5c1e435de5307ff7e9b26aa9949bb0db7.png" width="50" /> | 小王子 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=678` |
+| 679 | <img src="https://i0.hdslb.com/bfs/garb/item/2a979a58542517b9ea3cede86a92a0dcea9b7947.png" width="50" /> | 虎皮喵一家 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=679` |
+| 680 | <img src="https://i0.hdslb.com/bfs/garb/item/367510f62d7f54e67952434c01b3365027abf222.png" width="50" /> | 魔狼咪莉娅 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=680` |
+| 685 | <img src="https://i0.hdslb.com/bfs/garb/0d93c0f55dada4760c096bb4c28f257805e9ba96.png" width="50" /> | 啵啵小狗341（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=685` |
+| 696 | <img src="https://i0.hdslb.com/bfs/garb/item/052dc682bd9fb07a02c69e27c7ef879d743fedad.png" width="50" /> | 邓峰萌萌 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=696` |
+
