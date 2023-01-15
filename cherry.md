@@ -42,6 +42,7 @@
 | 669 | <img src="http://i0.hdslb.com/bfs/garb/83c080a047c8d9a10e87e19671e7815f7d9e4771.png" width="50" /> | 克里米亚野生动物园（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=669` |
 | 685 | <img src="https://i0.hdslb.com/bfs/garb/0d93c0f55dada4760c096bb4c28f257805e9ba96.png" width="50" /> | 啵啵小狗341（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=685` |
 | 748 | <img src="https://i0.hdslb.com/bfs/garb/fdd27653fa503b6155bd35798beea006761bb17c.png" width="50" /> | 永雏塔菲（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=748` |
+| 765 | <img src="https://i0.hdslb.com/bfs/garb/15e7be0bf5267802577c3fa4a7c9b573d5046f0c.png" width="50" /> | 我牌哪去了（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=765` |
 
 ## 大会员专属表情
 
@@ -709,3 +710,19 @@
 | 749 | <img src="https://i0.hdslb.com/bfs/garb/item/0483f7c342ecbc960be84a1aa29be4f05b12be9f.png" width="50" /> | nono狗 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=749` |
 | 750 | <img src="https://i0.hdslb.com/bfs/garb/item/c9160a2606a245752480213ff85dcbdf08d8bcd1.png" width="50" /> | 鸽子球 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=750` |
 | 751 | <img src="https://i0.hdslb.com/bfs/emote/df4ada16889fac5aae583b0b916c5d1bf8de4614.png" width="50" /> | 哈利波特：魔法觉醒 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=751` |
+| 752 | <img src="https://i0.hdslb.com/bfs/garb/item/aae02fdc80ef0de8c8ad35f9b967e29ff0c06d19.png" width="50" /> | 可爱团子 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=752` |
+| 753 | <img src="https://i0.hdslb.com/bfs/emote/1087e67e7dae03ea49666e3d2a8e09ed1a5b5f6d.png" width="50" /> | 甄嬛传系列 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=753` |
+| 754 | <img src="https://i0.hdslb.com/bfs/garb/item/fb43b16846e68cc6cf0ce1f04886c03c49f6fee8.png" width="50" /> | 花卷羊 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=754` |
+| 755 | <img src="https://i0.hdslb.com/bfs/garb/item/e740036955e8a7a917cf6f3398d7ae9392f95283.png" width="50" /> | 星尘的新年祝福 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=755` |
+| 756 | <img src="https://i0.hdslb.com/bfs/garb/item/a9d8d0750444d3c95895d060edf73c0509fba5b7.png" width="50" /> | 星律动 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=756` |
+| 757 | <img src="https://i0.hdslb.com/bfs/emote/b2cdae0acde7114492831a18f94ba7a30c7ac2da.png" width="50" /> | 中国奇谭 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=757` |
+| 758 | <img src="https://i0.hdslb.com/bfs/garb/item/60279754f32ce3db92ec46aaa7d635f0c00afbbb.png" width="50" /> | 天气愈报 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=758` |
+| 759 | <img src="https://i0.hdslb.com/bfs/garb/item/e3b22da579f7f00bcd481afe792941de1316cbbb.png" width="50" /> | 2023拜年纪 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=759` |
+| 762 | <img src="https://i0.hdslb.com/bfs/garb/item/7faab64df67fc2a380560c3f2035ea31f3a629a6.png" width="50" /> | 量子少年-慕宇 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=762` |
+| 765 | <img src="https://i0.hdslb.com/bfs/garb/15e7be0bf5267802577c3fa4a7c9b573d5046f0c.png" width="50" /> | 我牌哪去了（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=765` |
+| 766 | <img src="https://i0.hdslb.com/bfs/emote/bedb0c35bc68be9ea545a7768d4fe5a3d861a965.png" width="50" /> | 崩坏3·终焉归始 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=766` |
+| 769 | <img src="https://i0.hdslb.com/bfs/garb/item/94ee6d0e7f40271e521d7a6de896989ea440be10.png" width="50" /> | V我 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=769` |
+| 771 | <img src="https://i0.hdslb.com/bfs/garb/item/90dbc5898a1287c03d91a37cfc67df20bf2b6735.png" width="50" /> | 章鱼小Q | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=771` |
+| 772 | <img src="https://i0.hdslb.com/bfs/garb/item/425de854a877f4c4f75ca140b09453442c925661.png" width="50" /> | 兔崽大长腿 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=772` |
+| 774 | <img src="https://i0.hdslb.com/bfs/garb/item/018dc95be95bdf6e969eba33550cbd62c521cb34.png" width="50" /> | 洛少爷 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=774` |
+
