@@ -14,6 +14,7 @@
 | 415 | <img src="http://i0.hdslb.com/bfs/emote/d0e758af7c37b488da16e18a86a7357f2e1a2713.png" width="50" /> | 向晚2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=415` |
 | 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
 | 586 | <img src="http://i0.hdslb.com/bfs/emote/8de57ec80078632f2ccfd28d18afe9984f01cb23.png" width="50" /> | 乃琳个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=586` |
+| 1131 | <img src="https://i0.hdslb.com/bfs/garb/b475f7732c75e28206bf63d5d4f023f8e1ce91ad.png" width="50" /> | 脑洞波系列主题装扮-向晚 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1131` |
 
 ## Bilibili 内置表情包（EOE）
 
