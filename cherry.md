@@ -15,6 +15,7 @@
 | 471 | <img src="http://i0.hdslb.com/bfs/emote/a228045ce366df5f5d75a28f1acaa45561b1fbda.png" width="50" /> | 贝拉个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=471` |
 | 586 | <img src="http://i0.hdslb.com/bfs/emote/8de57ec80078632f2ccfd28d18afe9984f01cb23.png" width="50" /> | 乃琳个性装扮2.0 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=586` |
 | 1131 | <img src="https://i0.hdslb.com/bfs/garb/b475f7732c75e28206bf63d5d4f023f8e1ce91ad.png" width="50" /> | 脑洞波系列主题装扮-向晚 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1131` |
+| 1580 | <img src="https://i0.hdslb.com/bfs/garb/50adf3e772205f6b5932d43580f3ed0897ad7fa8.png" width="50" /> | 脑洞波系列主题装扮-贝拉 | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1580` |
 
 ## Bilibili 内置表情包（EOE）
 
@@ -45,6 +46,13 @@
 | 748 | <img src="https://i0.hdslb.com/bfs/garb/fdd27653fa503b6155bd35798beea006761bb17c.png" width="50" /> | 永雏塔菲（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=748` |
 | 765 | <img src="https://i0.hdslb.com/bfs/garb/15e7be0bf5267802577c3fa4a7c9b573d5046f0c.png" width="50" /> | 我牌哪去了（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=765` |
 | 798 | <img src="http://i0.hdslb.com/bfs/garb/e217ef1861a393df5180dd21231c1b840573d966.png" width="50" /> | HuangFuRen（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=798` |
+| 807 | <img src="https://i0.hdslb.com/bfs/garb/4e926e7f7f1673b590759a08c5dae91d5bbbc064.png" width="50" /> | 心灵侦探明柏辰（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=807` |
+| 855 | <img src="https://i0.hdslb.com/bfs/garb/0946ef4586ce1f868d99a73d13acf22b0990f831.png" width="50" /> | 塞满Sama（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=855` |
+| 944 | <img src="http://i0.hdslb.com/bfs/garb/c9b428b364b850c0f4b6ad46e22d2252d169cc37.png" width="50" /> | 小汪款款（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=944` |
+| 1018 | <img src="https://i0.hdslb.com/bfs/garb/5df2bc211d080688f100f951540d8805986ca4f4.png" width="50" /> | @黎之恒（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1018` |
+| 1039 | <img src="https://i0.hdslb.com/bfs/garb/cb9307cb7c8d63a3de68548ac9b86abbe032a67e.png" width="50" /> | 唠点历史（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1039` |
+| 1126 | <img src="https://i0.hdslb.com/bfs/garb/4f0cf18949edc64aef331c95c658845645bd6291.png" width="50" /> | 米饼Misa（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1126` |
+| 1197 | <img src="http://i0.hdslb.com/bfs/garb/7c1f29515d2c30af44b8479792ee26622343807a.png" width="50" /> | 你的影月月（充电） | `https://api.bilibili.com/x/emote/package?business=dynamic&ids=1197` |
 
 ## 大会员专属表情
 
